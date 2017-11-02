@@ -1,5 +1,5 @@
 {
-  "name": "dead-simple-react-router-redux",
+  "name": "dead-simple-react-router-redux-tutorial",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -23,5 +23,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://dead-simple-react-router-redux.mattcrampton.com"
+  "homepage": "http://dead-simple-react-router-redux-tutorial.mattcrampton.com"
 }

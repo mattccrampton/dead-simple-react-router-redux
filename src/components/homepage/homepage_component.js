@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom'
 const Homepage = () => (
     <div>
         
-        <h2>This is the homepage</h2>
+        <h2>This is the Homepage</h2>
         
         <p>
             Go to the <Link to="/blog_posts">Blog Posts</Link> page
